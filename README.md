@@ -1,16 +1,18 @@
-# Number Carrier Checker
+# Phone Number Carrier Validator
+
+![image](https://raw.githubusercontent.com/alexrony21/Number-Carrier-Validator/refs/heads/main/Phone_Number_Carrier_Lookup.png)
 
 **If you want to buy this tool, contact me via Telegram [@alexrony21](https://t.me/alexrony21).**
 
-## Overview
-
-The Phone Number Carrier Lookup Tool allows you to check the carrier information for phone numbers across 206 countries. It verifies whether a number is active and provides details about its carrier.
-
 ## Features
-
-- Supports phone number verification across 206 countries.
-- Provides carrier information for valid and active phone numbers.
-- Fast and accurate lookup results.
+1. Supports phone number verification across 206 countries.
+2. Provides carrier information for valid and active phone numbers.
+3. Fast and accurate lookup results.
+4. Suprer Fast Validation
+5. Support Multiprocessing
+6. 20k requests per minute
+7. Get Carrier
+8. Get Type such as Mobile , Landline , Voip etc.
 
 ## Supported Country
 -Afghanistan
