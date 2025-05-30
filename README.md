@@ -2,7 +2,7 @@
 
 ![image](https://raw.githubusercontent.com/alexrony21/Number-Carrier-Validator/refs/heads/main/Phone_Number_Carrier_Lookup.png)
 
-**If you want to buy this tool, contact me via Telegram [@alexrony21](https://t.me/alexrony21).**
+**If you want to buy this tool, contact me via Telegram: [@thepythoncode97](https://t.me/thepythoncode97)**
 
 ## Features
 1. Supports phone number verification across 206 countries.
@@ -221,3 +221,7 @@
 -Yemen
 -Zambia
 -Zimbabwe
+
+
+## Note:
+This tool is designed for marketers and businesses. If you engage in any illegal activities using this tool, the author will not take any responsibility.
